@@ -5,6 +5,21 @@ You can use the [editor on GitHub](https://github.com/MafaldaOBE/mafaldaobe.gith
 not quote 
 >quote
 
+<ul>
+    <li><a href="/">Home</a></li>
+    <li><a href="/about">About</a></li>
+    <li><a href="/contact">Contact</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
